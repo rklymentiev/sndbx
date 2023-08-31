@@ -4,4 +4,4 @@ numpy
 pandas
 scipy
 openpyxl
-pywt
+PyWavelets

@@ -4,3 +4,4 @@ pandas
 scipy
 openpyxl
 PyWavelets
+scikit-learn

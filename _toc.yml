@@ -4,9 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: Chapters/Chapter_1-Band Pass Filter.ipynb
-- file: Chapters/Chapter_2-Smoothing filters.ipynb
-- file: Chapters/Chapter_3-Frequency analysis.ipynb
+- file: Chapters/Chapter_1-Band_Pass_Filter.ipynb
+- file: Chapters/Chapter_2-Smoothing_filters.ipynb
+- file: Chapters/Chapter_3-Frequency_analysis.ipynb
 - file: Chapters/Chapter_4-Remove muscle artefacts (component decomposition).ipynb
 - file: Chapters/Chapter_5-Real-time.ipynb
 - file: Chapters/Chapter_6-Machine_learning.ipynb

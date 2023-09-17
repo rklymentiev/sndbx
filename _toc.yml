@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
+- file: Chapters/Chapter_0-Visualisation.ipynb
 - file: Chapters/Chapter_1-Band_Pass_Filter.ipynb
 - file: Chapters/Chapter_2-Smoothing_filters.ipynb
 - file: Chapters/Chapter_3-Frequency_analysis.ipynb

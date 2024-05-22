@@ -5,3 +5,6 @@ scipy
 openpyxl
 PyWavelets
 scikit-learn
+pyts
+EMD-signal
+pyhht

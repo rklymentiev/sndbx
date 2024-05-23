@@ -8,3 +8,4 @@ scikit-learn
 pyts
 EMD-signal
 pyhht
+mne

@@ -10,3 +10,4 @@ chapters:
 - file: Chapters/Chapter_3-Frequency_analysis.ipynb
 - file: Chapters/Chapter_4-Remove muscle artefacts (component decomposition).ipynb
 - file: Chapters/Chapter_5-Real-time.ipynb
+- file: Chapters/Chapter_6-Application.ipynb

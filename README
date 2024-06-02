@@ -1,8 +1,9 @@
 Don't forget to update (pull) files before you change something in the code.
 
-```bash
-git pull
 ```
+$ git pull
+```
+
 By accessing this course, you agree to the following terms and conditions:
 
 This course is provided for your personal educational use only.

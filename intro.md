@@ -1,3 +1,4 @@
+test
 # Welcome to the course!
 By accessing this course, you agree to the following terms and conditions:
 
